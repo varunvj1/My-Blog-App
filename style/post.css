@@ -1,0 +1,36 @@
+/* ADD styling for all of the divs in post.html to match  */
+#back-btn {
+  /* display: inline-block; */
+  text-decoration: none;
+  border: 1px solid #004186;
+  color: #004186;
+  padding: 5px 8px;
+  border-radius: 5px;
+}
+
+.post-container {
+  /* text-align: center; */
+  margin-top: 68px;
+}
+
+#individual-post-title {
+  font-size: 28px;
+  font-weight: 600;
+  text-align: center;
+  padding-bottom: 24px;
+}
+
+#individual-post-date {
+  padding: 24px 16px;
+  color: #adb5bd;
+  border-top: 1px solid rgba(0, 65, 134, 0.3);
+  border-bottom: 1px solid rgba(0, 65, 134, 0.3);
+}
+
+#individual-post-content {
+  padding-top: 24px;
+  padding-left: 16px;
+  padding-right: 16px;
+  color: #495957;
+  line-height: 1.4;
+}
